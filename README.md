@@ -6,7 +6,7 @@
 - ✈️ GitHub is my CoPilot
 
 ## Languages and Tools
-Go, TS/JS, Rust, C#, Python, Deno, Dapr, React, Docker, Kubernetes, Ansible, Postman, Redis
+Go, TS/JS, Rust, Deno, React, Docker, Postman, Redis
 
 ## Social
 - [instagram](https://instagram.com/ncolesummers/)
