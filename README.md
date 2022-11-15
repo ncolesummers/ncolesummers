@@ -7,7 +7,7 @@
 
 ## Languages and Tools
 - Rust
-- TS/JS, 
+- TS/JS
 - Go
 - Deno
 - React
