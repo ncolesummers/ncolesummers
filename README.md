@@ -1,5 +1,7 @@
 # Hi there, I'm Nathan - aka [ncolesummers](https://ncolesummers.com) 👋
 
+Software is my passion, and I like to be involved at every stage of the lifecycle.  From design to development to deployment
+
 ## I'm an Enterpise Applications Developer
 - 😄 Pronouns: He/Him/They/Them
 - ⚡ Hobbies: Cooking, Reading, Design
