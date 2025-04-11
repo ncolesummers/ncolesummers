@@ -1,24 +1,28 @@
-# Hi there, I'm Nathan - aka [ncolesummers](https://ncolesummers.com) 👋
+# Hi, I’m Nathan — aka [ncolesummers](https://ncolesummers.com) 👋
 
-Software is my passion, and I like to be involved at every stage of the lifecycle.  From design to development to deployment
+🚀 I’m an Enterprise Applications Developer & Frontend Specialist at the University of Idaho.  
+💡 I thrive on designing intuitive interfaces, building scalable systems, and leading teams through tech transformation.
 
-## I'm an Enterpise Applications Developer
-- ⚡ Hobbies: Engineering, Reading, Design
-- ✈️ GitHub is my CoPilot
+## 🧠 What I Do
+- Lead developer on for Ellucian Experience
+- React/Next.js frontend work with robust CI and testing
+- Legacy ASP.NET applications
+- Data-driven decisions via analytics & visualization
+- Developer enablement and technical training
 
-## Languages and Tools
-- TS/JS
-- Python
-- Go
-- Rust
-- C#
-- Deno
-- React
-- Docker
-- Postman
+## 🧪 Tools I Use
+**Languages**: TypeScript, Python, Go, C#, Rust  
+**Frameworks**: React, Next.js, ASP.NET, Langchain
+**DevOps**: Docker, GitHub Actions, Jest, Insomnia CLI
+**Other**: Deno, Postman, Copilot
 
-## Social
-- [instagram](https://instagram.com/ncolesummers/)
-- [linkedin](https://www.linkedin.com/in/n-cole-summers/)
-<!--
+## 🌱 What I’m Learning
+- Distributed systems & service architecture
+- AI Integrations and Applications
+- WebAssembly for embedded & edge computing
+- Better documentation through AI tooling
 
+## 📫 Let’s Connect
+- [LinkedIn](https://linkedin.com/in/n-cole-summers/)
+- [Instagram](https://instagram.com/ncolesummers/)
+- [Personal site](https://ncolesummers.com)
