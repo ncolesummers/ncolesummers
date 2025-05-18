@@ -4,7 +4,7 @@
 💡 I thrive on designing intuitive interfaces, building scalable systems, and leading teams through tech transformation.
 
 ## 🧠 What I Do
-- Lead developer for Ellucian Experience
+- Lead developer for Ellucian Experience, Uidaho.edu, and SoftDocs forms
 - React/Next.js frontend work with robust CI and testing
 - Legacy ASP.NET applications
 - Data-driven decisions via analytics & visualization
@@ -13,7 +13,7 @@
 ## 🧪 Tools I Use
 **Languages**: TypeScript, Python, Go, C#, Rust  
 **Frameworks**: React, Next.js, ASP.NET, Langchain
-**DevOps**: Docker, GitHub Actions, Jest, Insomnia CLI
+**DevOps**: Docker, GitHub Actions, Playwright, k8s
 **Other**: Deno, Postman, Copilot
 
 ## 🌱 What I’m Learning
