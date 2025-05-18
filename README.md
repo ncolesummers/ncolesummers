@@ -4,7 +4,7 @@
 💡 I thrive on designing intuitive interfaces, building scalable systems, and leading teams through tech transformation.
 
 ## 🧠 What I Do
-- Lead developer on for Ellucian Experience
+- Lead developer for Ellucian Experience
 - React/Next.js frontend work with robust CI and testing
 - Legacy ASP.NET applications
 - Data-driven decisions via analytics & visualization
