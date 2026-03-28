@@ -1,4 +1,4 @@
-# Hi, I'm Nathan — aka [ncolesummers](https://ncolesummers.com)
+# Hi, I'm Nathan — aka [n__cole__summers](https://ncolesummers.com)
 
 Enterprise Applications Developer at the University of Idaho. Lead developer for [uidaho.edu](https://www.uidaho.edu) and myUI. I build systems that automate the software development lifecycle while keeping humans in the loop.
 
